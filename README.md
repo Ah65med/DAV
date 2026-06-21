@@ -1,6 +1,13 @@
 # Digital Media Analytics with Intelligent Decision Support System
 
-A university-level data science and machine learning project that monitors three YouTube channels (Aaj TV, Hum TV, Raftar) to deliver end-to-end analytics on audience engagement, content performance, temporal trends, NLP-driven topic/sentiment analysis, graph-based relationship modeling, and evidence-based strategic decision support.
+A university-level data science and machine learning project that monitors three YouTube channels (Aaj TV, Hum TV, Raftar) to deliver end-to-end analytics on audience engagement, content performance, temporal trends, NLP-driven topic/sentiment analysis, graph-based relationship modeling, and evidence-based strategic decision support. Built as a DAV course project.
+
+## Contributors
+
+- [@talal](https://github.com/talal-11)
+- [@ahmed](https://github.com/Ah65med)
+- [@neha](https://github.com/nehalq)
+- [@shayan](https://github.com/sfxdeve)
 
 ## Table of Contents
 
