@@ -1,0 +1,167 @@
+========================================================================
+DECISION SUPPORT RECOMMENDATION REPORT
+Generated: 2026-05-07 17:13:11
+Total Recommendations: 18
+========================================================================
+
+--- RISK ALERTS ---
+
+RECOMMENDATION: Implement a 30-day risk mitigation plan addressing 1 active risk alerts.
+EVIDENCE: 1 risk events detected across sentiment, engagement, and anomaly dimensions. Proactive mitigation can reduce long-term reputational and algorithmic damage by 40-60%.
+SUPPORTING METRICS: Active risk alerts: 1
+CONFIDENCE: High
+SUGGESTED ACTION: 1) Content audit (Week 1), 2) Editorial tone adjustment (Week 2), 3) Community engagement campaign (Week 3-4).
+CATEGORY: risk_alert
+
+--------------------------------------------------
+RECOMMENDATION: Analyze 1 viral outlier video(s) to identify replicable success factors.
+EVIDENCE: 1 videos have view counts exceeding 2906029 (3σ above mean of 205159). These outliers represent 99.7th percentile performance and contain actionable success patterns. Videos: Demo Video Title 51
+SUPPORTING METRICS: Viral spikes: 1 videos (>2906029 views)
+CONFIDENCE: Medium
+SUGGESTED ACTION: Deconstruct viral videos: analyze title, thumbnail, topic, and first 30 seconds.
+CATEGORY: risk_alert
+
+--------------------------------------------------
+
+--- POSTING STRATEGY ---
+
+RECOMMENDATION: Schedule video uploads during peak engagement hours (22:00, 05:00, 02:00) to maximize initial view velocity and algorithmic promotion.
+EVIDENCE: Videos published at 22:00, 05:00, 02:00 show 50.2% higher average engagement rate compared to the channel-wide baseline. Analysis covers 60 videos across all channels.
+SUPPORTING METRICS: Engagement Rate by Hour (top window: 22:00, 05:00, 02:00)
+CONFIDENCE: Medium
+SUGGESTED ACTION: Shift publish times to 22:00, 05:00, 02:00 window; A/B test over 4 weeks.
+CATEGORY: posting_strategy
+
+--------------------------------------------------
+RECOMMENDATION: Prioritize publishing on Sat, Thu, Tue when audience engagement peaks.
+EVIDENCE: Videos published on Sat, Thu, Tue average 33.6% higher engagement. This pattern is consistent across all channels in the dataset.
+SUPPORTING METRICS: Day-of-Week Engagement (peak days: Sat, Thu, Tue)
+CONFIDENCE: Medium
+SUGGESTED ACTION: Concentrate premier content releases on Sat, Thu, Tue.
+CATEGORY: posting_strategy
+
+--------------------------------------------------
+RECOMMENDATION: Maintain a Low (0-2) weekly posting frequency for optimal engagement.
+EVIDENCE: Channels posting in the Low (0-2) frequency range show the highest average engagement rates. Consistency is more important than volume for algorithmic favor.
+SUPPORTING METRICS: Optimal posting frequency: Low (0-2) videos/week
+CONFIDENCE: Medium
+SUGGESTED ACTION: Set editorial calendar to Low (0-2) videos per week per channel.
+CATEGORY: posting_strategy
+
+--------------------------------------------------
+
+--- CONTENT OPTIMIZATION ---
+
+RECOMMENDATION: Double down on 'political_analysis' content — it represents 26.0% of audience discussion.
+EVIDENCE: 'political_analysis' accounts for 26.0% of all comment topics. This topic drives 450 comments, indicating strong audience resonance.
+SUPPORTING METRICS: Topic share: political_analysis (26.0%)
+CONFIDENCE: High
+SUGGESTED ACTION: Increase content production around 'political_analysis' by 20-30% in the next quarter.
+CATEGORY: content_optimization
+
+--------------------------------------------------
+RECOMMENDATION: Use Very Short (<100) video descriptions for optimal engagement.
+EVIDENCE: Descriptions in the Very Short (<100) range correlate with 0% higher engagement versus the least effective length. Longer descriptions improve SEO and viewer retention signals.
+SUPPORTING METRICS: Description Length vs Engagement (best: Very Short (<100))
+CONFIDENCE: Medium
+SUGGESTED ACTION: Template descriptions to fall within Very Short (<100) range.
+CATEGORY: content_optimization
+
+--------------------------------------------------
+RECOMMENDATION: Target Shorts (<3m) video format — this duration maximizes audience engagement.
+EVIDENCE: Videos in the Shorts (<3m) category average 67% higher engagement than the least effective duration bracket. The platform algorithm favors content that maintains viewer retention through completion.
+SUPPORTING METRICS: Duration vs Engagement (best: Shorts (<3m), uplift: 67%)
+CONFIDENCE: Medium
+SUGGESTED ACTION: Structure content for Shorts (<3m) runtime; test variants ±20%.
+CATEGORY: content_optimization
+
+--------------------------------------------------
+RECOMMENDATION: Optimize video titles to Short (<30) length for maximum engagement.
+EVIDENCE: Titles in the Short (<30) range average 21.3% engagement rate — 0% higher than the least engaging title length bracket. Analysis based on 60 videos.
+SUPPORTING METRICS: Title Length vs Engagement (best: Short (<30))
+CONFIDENCE: Low
+SUGGESTED ACTION: Adopt Short (<30) title length as editorial standard.
+CATEGORY: content_optimization
+
+--------------------------------------------------
+
+--- TOPIC STRATEGY ---
+
+RECOMMENDATION: Allocate 30% of content budget to emerging topics: economic_update, fashion_lifestyle.
+EVIDENCE: 2 topics show strong upward momentum. First-mover advantage in these areas can establish channel authority before competitors saturate the space.
+SUPPORTING METRICS: Emerging topics: 2
+CONFIDENCE: High
+SUGGESTED ACTION: Create dedicated content tracks for: economic_update, fashion_lifestyle.
+CATEGORY: topic_strategy
+
+--------------------------------------------------
+RECOMMENDATION: Maintain 40% allocation to proven growing topics: breaking_news, music_review.
+EVIDENCE: 2 topics are in a sustained growth phase. These topics have demonstrated audience demand and represent reliable engagement drivers.
+SUPPORTING METRICS: Growing topics: 2
+CONFIDENCE: High
+SUGGESTED ACTION: Maintain cadence on breaking_news, music_review; optimize for retention.
+CATEGORY: topic_strategy
+
+--------------------------------------------------
+RECOMMENDATION: Reduce investment in 'sports_coverage' — topic is in significant decline.
+EVIDENCE: Trend analysis shows 'sports_coverage' has a statistically significant negative slope over the observation period. Continued investment may yield diminishing returns.
+SUPPORTING METRICS: Trend slope: sports_coverage (declining)
+CONFIDENCE: Medium
+SUGGESTED ACTION: Reduce 'sports_coverage' content by 40-50%; reallocate resources to emerging topics.
+CATEGORY: topic_strategy
+
+--------------------------------------------------
+RECOMMENDATION: Invest heavily in 'economic_update' — strong upward trend detected.
+EVIDENCE: 'economic_update' shows a statistically significant positive growth rate, suggesting increasing audience interest. Early investment positions the channel as a leader in this space.
+SUPPORTING METRICS: Trend slope: economic_update (emerging)
+CONFIDENCE: Medium
+SUGGESTED ACTION: Allocate 25% of content calendar to 'economic_update'; build dedicated content series.
+CATEGORY: topic_strategy
+
+--------------------------------------------------
+RECOMMENDATION: Wind down content on declining topics: sports_coverage. Reallocate resources to growth areas.
+EVIDENCE: 1 topics show sustained negative trends. Continued resource allocation to declining topics yields diminishing marginal returns on engagement.
+SUPPORTING METRICS: Declining topics: 1
+CONFIDENCE: Medium
+SUGGESTED ACTION: Reduce publishing frequency on sports_coverage by 50% over 8 weeks.
+CATEGORY: topic_strategy
+
+--------------------------------------------------
+
+--- AUDIENCE ENGAGEMENT ---
+
+RECOMMENDATION: Leverage high like-to-view ratio by adding explicit calls-to-action (CTAs) for likes in the first 30 seconds.
+EVIDENCE: Average like-to-view ratio is 21.1%, indicating a highly engaged but possibly under-activated audience. Videos with early CTAs see 15-25% more likes.
+SUPPORTING METRICS: Like/View Ratio: 21.1%
+CONFIDENCE: Medium
+SUGGESTED ACTION: Place a like CTA at 0:15-0:30 mark in every video.
+CATEGORY: audience_engagement
+
+--------------------------------------------------
+
+--- CHANNEL COMPARISON ---
+
+RECOMMENDATION: 'UCgBAPAcLsh_MAPvJprIz89w' outperforms peers by 101% — document and share winning strategies.
+EVIDENCE: 'UCgBAPAcLsh_MAPvJprIz89w' achieves 200.9% of the network average (8243500 vs 4103177 avg). Their strategies represent a competitive advantage.
+SUPPORTING METRICS: Performance ratio: UCgBAPAcLsh_MAPvJprIz89w = 200.9% of peer average
+CONFIDENCE: High
+SUGGESTED ACTION: Document 'UCgBAPAcLsh_MAPvJprIz89w' best practices; create replicable playbook for other channels.
+CATEGORY: channel_comparison
+
+--------------------------------------------------
+RECOMMENDATION: Adopt top-performing practices from 'UCgBAPAcLsh_MAPvJprIz89w' — the highest-ranked channel.
+EVIDENCE: 'UCgBAPAcLsh_MAPvJprIz89w' leads in viewership metrics across the network. Cross-channel knowledge transfer can lift under-performing channels by 15-25% within 3 months.
+SUPPORTING METRICS: Top channel: UCgBAPAcLsh_MAPvJprIz89w
+CONFIDENCE: Medium
+SUGGESTED ACTION: Conduct deep-dive analysis of 'UCgBAPAcLsh_MAPvJprIz89w' content strategy; create best-practice playbook.
+CATEGORY: channel_comparison
+
+--------------------------------------------------
+RECOMMENDATION: 'UC6zIImBjDqtEsVZfQLPoQSw' is underperforming at 65.6% of peer average — investigate root causes.
+EVIDENCE: 'UC6zIImBjDqtEsVZfQLPoQSw' achieves 65.6% of the network-wide average for this metric (2692937 vs 4103177 avg). Systematic underperformance may indicate structural issues.
+SUPPORTING METRICS: Performance ratio: UC6zIImBjDqtEsVZfQLPoQSw = 65.6% of peer average
+CONFIDENCE: Medium
+SUGGESTED ACTION: Conduct diagnostic audit of 'UC6zIImBjDqtEsVZfQLPoQSw' content strategy and audience targeting.
+CATEGORY: channel_comparison
+
+--------------------------------------------------
